@@ -1,6 +1,8 @@
 /// Season of the Undying - based off u/pandapaxxy's Shadowkeep Weapons Breakdown
 /// https://old.reddit.com/r/sharditkeepit/comments/ddne6u/shadowkeep_weapons_and_armor_breakdown/
 
+/// PvE Godrolls
+
 /// Compiled by u/liuokin
 
 /// Exit Strategy - Legendary Submachine Gun
